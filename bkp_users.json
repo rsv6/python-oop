@@ -1,0 +1,16 @@
+[
+  {
+  "nome": "Jane Doe",
+  "salário": 9000,
+  "habilidades": [
+      "Raspberry Pi",
+      "Aprendizado de Máquina",
+      "Desenvolvimento web"
+  ],
+  "email": "JaneDoe@pynative.com",
+  "projetos": [
+      "Mineração de Dados Python",
+      "Python Data Science"
+  ]
+ }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Rafael Santos",
+    "age": "36",
+    "cpf": "235235235",
+    "login": "rsv",
+    "password": "234234234",
+    "email": "rsv@email.com"
+  },
+  {
+    "name": "Joao Marcos",
+    "age": "38",
+    "cpf": "345463763",
+    "login": "jhn",
+    "password": "65547454",
+    "email": "jhn@email.com"
+  },
+  {
+    "name": "Marcos Luan",
+    "age": "26",
+    "cpf": "543534653465",
+    "login": "malu",
+    "password": "4354356345",
+    "email": "malu@email.com"
+  },
+  {
+    "name": "Erion Silva",
+    "age": "22",
+    "cpf": "23432542345",
+    "login": "zorion",
+    "password": "2442442",
+    "email": "zorion@email.com"
+  },
+  {
+    "name": "Flavio Silva",
+    "age": "22",
+    "cpf": "32423423424",
+    "login": "flv",
+    "password": "3432424",
+    "email": "flavio@email.com"
+  },
+  {
+    "name": "Michael Holanda",
+    "age": "30",
+    "cpf": "56464646",
+    "login": "micha",
+    "password": "23423423",
+    "email": "micha@email.com"
+  },
+  {
+    "name": "Lucas Souza",
+    "age": "22",
+    "cpf": "232344234",
+    "login": "lucas",
+    "password": "23434243",
+    "email": "lucas@email.com"
+  },
+  {
+    "name": "Italo Alves",
+    "age": "22",
+    "cpf": "342354252",
+    "login": "italo",
+    "password": "23324234",
+    "email": "italo@email.com"
+  }
+]

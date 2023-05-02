@@ -1,0 +1,8 @@
+## Initialize environment virtual
+python -m venv <path>
+
+## Linux:
+source ./path-venv/bin/active
+
+## Windows:
+./path-venv/Scripts/active.bat
