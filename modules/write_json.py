@@ -23,10 +23,14 @@ def write_json():
   'email': user.email,
  }
  # Read file JSON:
- with open("data\\users.json", 'r+') as content:
-  fileUsers = json.load(content)
-  fileUsers.append(user_dict)
-  with open("data\\users.json", 'w') as content_file_write:
-   json.dump(fileUsers, content_file_write, indent=2)
-   content.close()
-   content_file_write.close()
+ try:
+  with open("data\\users.json", 'r+') as content:
+   fileUsers = json.load(content)
+   fileUsers.append(user_dict)
+   with open("data\\users.json", 'w') as content_file_write:
+    json.dump(fileUsers, content_file_write, indent=2)
+    content.close()
+    content_file_write.close()
+
+ except TypeError as e:
+   print("Error...{} ".format(e))
